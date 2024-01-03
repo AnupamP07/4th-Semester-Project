@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\Change_User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Form_Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Manage Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_ManageUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Production\Form_Production.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Production\Jit_Generate_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Production\Manage Schedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Production\Manage_Jit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Production\Manage_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store\Form_Store.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="C:\Users\anupa\OneDrive\Desktop\Manage Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\Manage Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store\frm_addsupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store\Goods Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store\Jit_Issue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Store\Jit_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
